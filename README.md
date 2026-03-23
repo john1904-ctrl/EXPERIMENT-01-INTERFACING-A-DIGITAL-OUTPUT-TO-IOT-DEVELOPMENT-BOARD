@@ -4,9 +4,9 @@
 
 **DATE: 20/03/2026**
 
-**NAME: Sathish kumar .M
+**NAME: johnpall M
 
-**ROLL NO: 212224230256
+**ROLL NO: 212224040140
 
 **DEPARTMENT: B.Tech(AI&DS)**
 
