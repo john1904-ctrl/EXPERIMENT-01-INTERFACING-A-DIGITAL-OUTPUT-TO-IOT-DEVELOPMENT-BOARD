@@ -545,9 +545,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/e60a9355-d9a1-4cbc-a849-204e9cb10aed" />
 
 1B - OUTPUT
-<img width="471" height="605" alt="image" src="https://github.com/user-attachments/assets/b971299c-dc32-4bcd-8a24-9d0350f4990d" />
-<img width="474" height="531" alt="image" src="https://github.com/user-attachments/assets/d361eb37-e991-4b87-8f07-82eb137e725e" />
 
+<img width="474" height="531" alt="image" src="https://github.com/user-attachments/assets/d361eb37-e991-4b87-8f07-82eb137e725e" />
+<img width="471" height="605" alt="image" src="https://github.com/user-attachments/assets/b971299c-dc32-4bcd-8a24-9d0350f4990d" />
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
